@@ -12,3 +12,7 @@
 - `pyproject.toml`：项目元数据与 Python 版本要求
 
 > 本项目目前是用于课堂教学的基础骨架。
+
+## 开源许可证
+
+本项目采用 [MIT License](LICENSE) 开源。
